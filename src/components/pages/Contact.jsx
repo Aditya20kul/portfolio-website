@@ -10,10 +10,10 @@ export default function Contact() {
 
       <div className="flex flex-wrap gap-4 mb-10">
         <a
-          href="mailto:kulkarniaditya20@gmail.com"
+          href="mailto:kulkarniaditya2099@gmail.com"
           className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-teal-500/10 dark:bg-teal-500/20 text-teal-600 dark:text-teal-400 font-medium hover:bg-teal-500/20 dark:hover:bg-teal-500/30 transition-colors"
         >
-          kulkarniaditya20@gmail.com
+          kulkarniaditya2099@gmail.com
         </a>
         <a
           href="https://github.com/Aditya20kul"
